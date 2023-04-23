@@ -12,7 +12,12 @@
 
  
  ##
- 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4rdokBinary&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"><br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rdokBinary&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
+</p>
+
+ ##
 <div> 
   <a href="https://www.instagram.com/aszinn_sec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/VttgDBzy4e" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
