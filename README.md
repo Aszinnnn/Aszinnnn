@@ -17,7 +17,7 @@
  
  ##
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aszinnnn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c900ff&icon_color=cccccc&text_color=c900ff&bg_color=ffff00"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aszinnnn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c900ff&icon_color=cccccc&text_color=c900ff&bg_color=f5f8b6"><br>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszinnnn&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
 </p>
 
