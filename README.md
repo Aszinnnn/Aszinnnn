@@ -1,4 +1,4 @@
-### Olá a todos, bem vindos ao meu perfil!
+### Welcome to my mind!
 
 - 🌱 Estudando C++
 
