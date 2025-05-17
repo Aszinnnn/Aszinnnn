@@ -3,7 +3,7 @@
 
 I am a Brazilian who loves programming and loves to mess with data using **Python**, always with lots of ideas!
 ---
-- 🌱 **Learning**: C, C++
+- 🌱 **Learning**: C, JAVA
 - 💬 **Ask me about**: Node.js, React.js, Python, Backend & Front-end Development.
 - 📫 **Reach me at**: [aszinho59@gmail.com](mailto:aszinho59@gmail.com)
 
