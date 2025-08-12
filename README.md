@@ -1,6 +1,4 @@
 # Welcome to my mind, I'm Achilles (As.)
-## Data scientist
-
 I am a Brazilian who loves programming and loves to mess with data using **Python**, always with lots of ideas!
 ---
 - 💻 **My project**: <a href="https://exabook.vercel.app">ExaByte</a>
