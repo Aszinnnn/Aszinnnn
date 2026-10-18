@@ -4,7 +4,7 @@ I am a Brazilian who loves programming and loves to mess with data using **Pytho
 - 💻 **Graduation**: In progress - FACULDADE DE EDUCAÇÃO SUPERIOR DO PARANÁ (FESP)
 - 🌱 **Learning**: JAVA
 - 💬 **Ask me about**: Node.js, React.js, Python, Backend & Front-end Development.
-- 📫 **Reach me at**: [aszinho59@gmail.com](mailto:aszinho59@gmail.com)
+- 📫 **Reach me at**: [achilles.as33@gmail.com](mailto:achilles.as33@gmail.com)
 
 ---
 ### Technologies
