@@ -2,7 +2,7 @@
 I am a Brazilian who loves programming and loves to mess with data using **Python**, always with lots of ideas!
 ---
 - 💻 **Graduation**: In progress - FACULDADE DE EDUCAÇÃO SUPERIOR DO PARANÁ (FESP)
-- 🌱 **Learning**: JAVA
+- 🌱 **Learning**: CYBERSECURITY
 - 💬 **Ask me about**: Node.js, React.js, Python, Backend & Front-end Development.
 - 📫 **Reach me at**: [achilles.as33@gmail.com](mailto:achilles.as33@gmail.com)
 
